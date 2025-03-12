@@ -1,6 +1,6 @@
 # numin
 
-A software as a service web at that simplifies the process of creating and managing a cryptocurrency for your business.
+A software as a service web app that simplifies the process of creating and managing a cryptocurrency for your business.
 
 ## Website
 
